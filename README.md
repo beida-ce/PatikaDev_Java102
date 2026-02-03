@@ -30,10 +30,10 @@ These SQL scripts are typically executed on sample databases provided in the cou
 - Tools like pgAdmin, DBeaver, or psql for executing queries.
 
 ### Running an Assignment
-1. Clone the repository: `git clone https://github.com/yourusername/your-repo-name.git`
-2. Set up a PostgreSQL database and import sample data (e.g., dvdrental database).
-3. Navigate to the assignment folder: `cd hwX`
-4. Use a SQL client to execute the queries in the .sql file.
+1. Clone the repository: `git clone https://github.com/beida-ce/PatikaDev_Java102.git`
+3. Set up a PostgreSQL database and import sample data (e.g., dvdrental database).
+4. Navigate to the assignment folder: `cd hwX`
+5. Use a SQL client to execute the queries in the .sql file.
 
 Each assignment is self-contained in its folder with SQL scripts.
 
